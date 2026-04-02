@@ -152,8 +152,8 @@ title: BizBudget — COMP 3350
       <nav class="postmortem-nav">
         <ul>
           <li><a href="#pm-arch">Architecture</a></li>
-          <li><a href="#pm-well">What Went Well</a></li>
-          <li><a href="#pm-wrong">What Went Wrong</a></li>
+          <li><a href="#pm-what-went-well">What Went Well</a></li>
+          <li><a href="#pm-what-went-wrong">What Went Wrong</a></li>
           <li><a href="#pm-dev-team-techniques">Development and Team Management Techniques Utilized</a></li>
           <li><a href="#pm-iteration-2">Iteration 2 Improvements</a></li>
         </ul>
@@ -169,10 +169,10 @@ title: BizBudget — COMP 3350
           </div>
         </div>
 
-        <div class="pm-section reveal" id="pm-well">
+        <div class="pm-section reveal" id="pm-what-went-well">
           <h3>What Went Well</h3>
           <div class="two-col">
-            <div class="card-well green">
+            <div class="card-container green">
               <h4>Strengths</h4>
               <ul>
                 <li>temp</li>
@@ -182,19 +182,19 @@ title: BizBudget — COMP 3350
           </div>
         </div>
 
-        <div class="pm-section reveal" id="pm-wrong">
+        <div class="pm-section reveal" id="pm-what-went-wrong">
           <h3>What Went Wrong</h3>
           <p>temp</p>
           <p>temp</p>
           <div class="two-col">
-            <div class="card-well">
+            <div class="card-container">
               <h4>Unexpected Technical Difficulties</h4>
               <ul>
                 <li>temp</li>
                 <li>temp</li>
               </ul>
             </div>
-            <div class="card-well">
+            <div class="card-container">
               <h4>What We Would Change If Starting Over</h4>
               <ul>
                 <li>temp</li>
