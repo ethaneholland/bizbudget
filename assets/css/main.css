@@ -141,6 +141,12 @@ section { padding: 5rem 2rem; }
   padding: 0.35rem 0.9rem;
   border-radius: 99px;
 }
+.apk-button:hover {
+  background-color: var(--gray);
+  border: 1px solid black;
+  transition: background-color 100ms linear;
+  transition: border 100ms linear;
+}
 
 
 #overview { background: var(--white); }
