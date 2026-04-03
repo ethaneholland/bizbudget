@@ -144,7 +144,6 @@ section { padding: 5rem 2rem; }
 .apk-button:hover {
   background-color: rgba(199,214,235,0.05);
   border: 1px solid white;
-  transition: border 100ms linear;
   transition: background-color 100ms linear;
 }
 
